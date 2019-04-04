@@ -1,0 +1,11 @@
+Student ID#     First Name      LastName        DOB        Address        
+232             Duncan          Owino           19900531        234 Mau         
+231             Joseph          Keino           19961212        345 Narok       
+294             Othaniel        Ouko            19891027        398 Fuji       
+989             Mary            Muthoni         19930302        298 Nakuru      
+878             Beatrice        Mwangi          19831127        465 Silicon Valley
+654             Serah           Wambui          19790729        673 Makueni    
+377             Onesmus         Ogutu           19950530        384 Kakamega    
+879             Purity          Mueni           19840506        230 Mombasa      
+980             Monicah         Doe             20100204        653 Manit       
+644             Tom             Jerry           19470421        203 Hollud      
